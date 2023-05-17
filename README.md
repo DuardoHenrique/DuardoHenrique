@@ -11,7 +11,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### Rede de contato
  
 <div> 
   <a href="https://www.linkedin.com/in/eduardo-ribeiro-b74317270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
